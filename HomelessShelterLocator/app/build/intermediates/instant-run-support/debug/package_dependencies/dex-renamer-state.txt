@@ -1,0 +1,4 @@
+#Mon Feb 12 14:28:14 EST 2018
+base.0=C\:\\Users\\Roshni Ghosh\\Documents\\CS 2340\\m4\\HomelessShelterLocator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
